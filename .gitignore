@@ -1,0 +1,7 @@
+.env
+intake.db
+categories.json
+__pycache__/
+*.pyc
+venv/
+.vscode/
